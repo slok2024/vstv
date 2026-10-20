@@ -8,7 +8,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/vesaaa/vstv)
 ![GitHub all releases](https://img.shields.io/github/downloads/vesaaa/vstv/total)
 <br>
-🚀 <strong>体积不足 5MB</strong> | ⚡ <strong>秒开体验</strong> | 📺 <strong>支持 4K/组播/回看</strong>
+🚀 <strong>体积不足 10MB</strong> | ⚡ <strong>秒开体验</strong> | 📺 <strong>支持 4K/组播/回看</strong>
+<br>
+💬 <a href="https://t.me/vsshare_chat"><strong>Telegram 交流群</strong></a>
 </div>
 </div>
 
@@ -22,7 +24,7 @@
 
 ## 🌟 核心亮点
 
-- **🚀 极度轻量与响应**：全包体积**不足 5MB**，剔除所有冗余库。针对低端盒子（如 S905 系列）深度优化内存占用，**秒速启动**，操作丝滑不卡顿。
+- **🚀 极度轻量与响应**：全包体积**不足 10MB**，剔除所有冗余库。针对低端盒子（如 S905 系列）深度优化内存占用，**秒速启动**，操作丝滑不卡顿。
 - **🛰️ 原生组播支持 (专为电信/联通/移动 IPTV 优化)**：
   - **核心突破**：内置原生组播协议栈，支持 `udp://` 和 `rtp://` 直流。
   - **无需转发**：不再需要额外的 `udpproxy` 或组播服务器转发，直接插入网线/连接 Wi-Fi 即可流畅播放 4K 组播源。
@@ -211,6 +213,12 @@ VsTV 支持常见的电视直播订阅格式，下面是最常用的 4 类：
 [CHANGELOG.md](https://github.com/vesaaa/vstv/releases)
 
 **README 摘录（v2.1.12）**：**长按确认键可快速切换直播源**（详见上文「重点功能操作说明 → 5」）。
+
+---
+
+## 交流与反馈
+
+欢迎加入 **[Telegram 交流群](https://t.me/vsshare_chat)**：使用问题、功能建议和问题反馈都可以在群里讨论。
 
 ---
 
